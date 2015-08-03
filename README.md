@@ -8,7 +8,7 @@
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 ##Exercises:
-D01_ex01.txt:
+###D01_ex01.txt
 > enter your name and favorite color in place of mine.
 
 <!-- Links -->
